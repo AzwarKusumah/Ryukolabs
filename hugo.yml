@@ -1,5 +1,5 @@
 # Basic Information
-baseURL: "https://ryukoproject.app/"
+baseURL: "https://ryukolabs.netlify.app/"
 languageCode: en-us
 title: "Ryukolab's"
 theme: hugo-Kamigo
@@ -65,7 +65,7 @@ params:
       enabled: true # needs to be explicitly set
       #title: Ryukolab's
       subtitle: "_Deus ex Machina_"
-      imageUrl: "/images/Ryukoapp-4.webp"
+      imageUrl: "/images/Ryukoapp.webp"
       imageWidth: 450
       imageHeight: auto
       imageTitle: Ryukolab's Logo
