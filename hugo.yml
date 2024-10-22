@@ -3,7 +3,7 @@ baseURL: "https://ryukoproject.app/"
 languageCode: en-us
 title: "Ryukolab's"
 theme: hugo-Kamigo
-#opyright: '&copy; 2023 [ryukoproject.app](https://ryukoproject.app/) | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [Privacy Policy](/privacy) | [Disclaimer](/disclaimer)'
+copyright: '&copy; 2023 [ryukoproject.app](https://ryukoproject.app/) | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [Privacy Policy](/privacy) | [Disclaimer](/disclaimer)'
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -63,11 +63,11 @@ params:
 # profile-mode
   profileMode:
       enabled: true # needs to be explicitly set
-      title: Ryukolab's
+      #title: Ryukolab's
       subtitle: "_Deus ex Machina_"
-      imageUrl: "/images/ryukolabs.webp"
-      imageWidth: 120
-      imageHeight: 120
+      imageUrl: "/images/Ryukoapp-4.webp"
+      imageWidth: 450
+      imageHeight: auto
       imageTitle: Ryukolab's Logo
       buttons:
         - name: Blog
@@ -75,18 +75,10 @@ params:
 
 # Social
   socialIcons:
-    - name: email
-      url: "mailto:syahrial@lemniskett.moe"
     - name: github
-      url: "https://github.com/lemniskett"
-    - name: gitea
-      url: "https://momodev.lemniskett.moe/lemniskett"
+      url: "https://github.com/AzwarKusumah"
     - name: linkedin
-      url: "https://www.linkedin.com/in/lemniskett/"
-    - name: telegram
-      url: "https://t.me/lemniskett"
-    - name: pgp
-      url: "/pgp.txt"
+      url: "https://www.linkedin.com/in/AzwarKusumah/"
     - name: rss
       url: /index.xml
 

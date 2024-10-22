@@ -2,9 +2,9 @@
 title: "Hello World!"
 description: "Yet another blog."
 summary: "Yet another blog."
-date: 2023-10-09T13:36:12+07:00
+date: 2024-10-09T13:36:12+07:00
 draft: false
-author: "Lemniskett" # ["Me", "You"] # multiple authors
+author: "Me" # ["Me", "You"] # multiple authors
 tags: ["hello-world"]
 canonicalURL: ""
 showToc: true

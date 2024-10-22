@@ -1,4 +1,4 @@
-# lemniskett.moe
+# Ryukolabs
 
 _yet another personal website._
 
